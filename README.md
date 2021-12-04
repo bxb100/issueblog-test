@@ -40,3 +40,8 @@ My personal blog using issues and GitHub Actions
 ## TODO
 [todo 测试 2](https://github.com/bxb100/gitlog-test/issues/19) all done
 
+[todo 测试](https://github.com/bxb100/gitlog-test/issues/18)--1 jobs to do--2 jobs done
+- [ ] undone
+- [x] done
+- [x] done2
+
