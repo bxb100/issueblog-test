@@ -5,7 +5,9 @@ on:
     types: [opened, edited]
   issue_comment:
     types: [created, edited]
-concurrency: ${{ github.action }}
+concurrency: 
+  group: ${{ github.action }}
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
