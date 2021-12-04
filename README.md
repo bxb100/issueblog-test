@@ -35,4 +35,7 @@ My personal blog using issues and GitHub Actions
 </details>
 
 
+## two
+- [测试隐藏 label 1](https://github.com/bxb100/gitlog-test/issues/5)---2021-12-04
+
 ## 无题
