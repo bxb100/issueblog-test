@@ -6,7 +6,7 @@ on:
   issue_comment:
     types: [created, edited]
 concurrency: 
-  group: ${{ github.action }}
+  group: ${{ github.workflow }}
   cancel-in-progress: true
 jobs:
   build:
