@@ -34,9 +34,9 @@ My personal blog using issues and GitHub Actions
 - [测试隐藏 label 1](https://github.com/bxb100/gitlog-test/issues/5)---2021-12-04
 </details>
 
-
 ## two
 - [测试隐藏 label 1](https://github.com/bxb100/gitlog-test/issues/5)---2021-12-04
+
 ## TODO
 TODO list from [todo 测试 2](https://github.com/bxb100/gitlog-test/issues/19) all done
 
