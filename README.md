@@ -5,3 +5,4 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc |
 | ---- | ---- | ---- |
 | 兔子鮮笙 | https://tuzi.moe | 20 岁的天才少年 |
+| FRIEND | https://tuzi.moe | 20 岁的天才少年 |
