@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
+          git config --global user.name 'John Bi'
+          git config --global user.email 'bxb100@outlook.com'
           git submodule update --init
       - name: Generate README
         uses: ./.github/actions/gitlog
