@@ -11,10 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/checkout@v2
-        with:
-          repository: bxb100/gitlog
-          token: ${{ secrets.GH_PAT }}
-          path: .github/actions
+      - run: |
+          git submodule update --init
       - name: Generate README
-        uses: ./.github/actions
+        uses: ./.github/actions/gitlog
