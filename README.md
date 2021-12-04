@@ -38,9 +38,9 @@ My personal blog using issues and GitHub Actions
 ## two
 - [测试隐藏 label 1](https://github.com/bxb100/gitlog-test/issues/5)---2021-12-04
 ## TODO
-[todo 测试 2](https://github.com/bxb100/gitlog-test/issues/19) all done
+TODO list from [todo 测试 2](https://github.com/bxb100/gitlog-test/issues/19) all done
 
-[todo 测试](https://github.com/bxb100/gitlog-test/issues/18)--1 jobs to do--2 jobs done
+TODO list from [todo 测试](https://github.com/bxb100/gitlog-test/issues/18)--1 jobs to do--2 jobs done
 - [ ] undone
 - [x] done
 - [x] done2
