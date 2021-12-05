@@ -1,17 +1,17 @@
 ## GitLog
 My personal blog using issues and GitHub Actions
 [RSS Feed](https://raw.githubusercontent.com/bxb100/issueblog-test/master/feed.xml)
-## 友情链接
+## Links
 | Name | Link | Desc |
 | ---- | ---- | ---- |
 | 兔子鮮笙 | https://tuzi.moe | 20 岁的天才少年 |
 | FRIEND | https://tuzi.moe | 20 岁的天才少年 |
 
-## 置顶文章
+## Top
 - [置顶测试 2](https://github.com/bxb100/issueblog-test/issues/3)---2021-12-04
 - [置顶测试 1](https://github.com/bxb100/issueblog-test/issues/2)---2021-12-04
 
-## 最近更新
+## Recent
 - [todo 测试 2](https://github.com/bxb100/issueblog-test/issues/19)---2021-12-04
 - [todo 测试](https://github.com/bxb100/issueblog-test/issues/18)---2021-12-04
 - [无 label 7](https://github.com/bxb100/issueblog-test/issues/17)---2021-12-04
