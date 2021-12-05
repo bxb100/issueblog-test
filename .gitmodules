@@ -1,3 +1,6 @@
 [submodule ".github/actions/gitlog"]
 	path = .github/actions/gitlog
 	url = https://github.com/bxb100/gitlog
+[submodule ".github/actions/issueblog"]
+	path = .github/actions/issueblog
+	url = https://github.com/bxb100/issueblog.git
