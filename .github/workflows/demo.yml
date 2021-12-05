@@ -18,4 +18,4 @@ jobs:
           submodules: 'recursive'
       - run: git submodule update --remote
       - name: Generate README
-        uses: ./.github/actions/gitlog
+        uses: ./.github/actions/issueblog
