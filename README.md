@@ -1,3 +1,5 @@
+[![Generate GitBlog README](https://github.com/bxb100/issueblog-test/actions/workflows/demo.yml/badge.svg?branch=main)](https://github.com/bxb100/issueblog-test/actions/workflows/demo.yml) 
+
 ## GitLog
 My personal blog using issues and GitHub Actions
 [RSS Feed](https://bxb100.github.io/issueblog-test/feed.xml)
