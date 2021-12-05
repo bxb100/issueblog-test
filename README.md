@@ -12,6 +12,7 @@ My personal blog using issues and GitHub Actions
 - [置顶测试 1](https://github.com/bxb100/issueblog-test/issues/2)---2021-12-04
 
 ## Recent
+- [备份测试 1](https://github.com/bxb100/issueblog-test/issues/20)---2021-12-05
 - [todo 测试 2](https://github.com/bxb100/issueblog-test/issues/19)---2021-12-04
 - [todo 测试](https://github.com/bxb100/issueblog-test/issues/18)---2021-12-04
 - [无 label 7](https://github.com/bxb100/issueblog-test/issues/17)---2021-12-04
@@ -21,7 +22,6 @@ My personal blog using issues and GitHub Actions
 - [无 label 3](https://github.com/bxb100/issueblog-test/issues/13)---2021-12-04
 - [无 label 2](https://github.com/bxb100/issueblog-test/issues/12)---2021-12-04
 - [无 label 1](https://github.com/bxb100/issueblog-test/issues/11)---2021-12-04
-- [测试隐藏 label 6](https://github.com/bxb100/issueblog-test/issues/10)---2021-12-04
 
 ## 2021
 - [测试隐藏 label 6](https://github.com/bxb100/issueblog-test/issues/10)---2021-12-04
