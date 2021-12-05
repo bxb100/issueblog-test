@@ -24,7 +24,7 @@
               </xsl:attribute>
               <img>
                 <xsl:attribute name="src">
-                  <xsl:value-of select="/rss/channel/itunes:image"/>
+                  <xsl:value-of select="/rss/channel/itunes:image/@href"/>
                 </xsl:attribute>
                 <xsl:attribute name="title">
                   <xsl:value-of select="/rss/channel/title"/>
