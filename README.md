@@ -30,18 +30,24 @@ My personal blog using issues and GitHub Actions
 - [测试隐藏 label 3](https://github.com/bxb100/gitlog-test/issues/7)---2021-12-04
 - [测试隐藏 label 2](https://github.com/bxb100/gitlog-test/issues/6)---2021-12-04
 <details><summary>显示更多</summary>
-
 - [测试隐藏 label 1](https://github.com/bxb100/gitlog-test/issues/5)---2021-12-04
 </details>
+
 
 ## two
 - [测试隐藏 label 1](https://github.com/bxb100/gitlog-test/issues/5)---2021-12-04
 
 ## TODO
 TODO list from [todo 测试 2](https://github.com/bxb100/gitlog-test/issues/19) all done
+<details><summary>显示更多</summary>
+- [x] 1
+- [x] 2
+</details>
 
 TODO list from [todo 测试](https://github.com/bxb100/gitlog-test/issues/18)--1 jobs to do--2 jobs done
 - [ ] undone
+<details><summary>显示更多</summary>
 - [x] done
 - [x] done2
+</details>
 
