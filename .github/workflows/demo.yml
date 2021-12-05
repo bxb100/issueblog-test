@@ -19,3 +19,5 @@ jobs:
       - run: git submodule update --remote
       - name: Generate README
         uses: ./.github/actions/issueblog
+        with:
+          md_header: "## GitLog\nMy personal blog using issues and GitHub Actions\n[RSS Feed](https://bxb100.github.io/issueblog-test/feed.xml)"
