@@ -1,6 +1,6 @@
 ## GitLog
 My personal blog using issues and GitHub Actions
-[RSS Feed](https://raw.githubusercontent.com/bxb100/issueblog-test/master/feed.xml)
+[RSS Feed](https://cdn.jsdelivr.net/gh/bxb100/issueblog-test/feed.xml)
 ## Links
 | Name | Link | Desc |
 | ---- | ---- | ---- |
