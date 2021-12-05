@@ -5,7 +5,7 @@
 
 >
     <channel>
-        <title><![CDATA[RSS feed of bxb100's issueblog-test]]></title>
+        <title><![CDATA[bxb100's Blog]]></title>
         <link>https://github.com/bxb100/issueblog-test</link>
         <atom:link href="https://github.com/bxb100/issueblog-test/feed.xml" rel="self" type="application/rss+xml" />
         <description><![CDATA[RSS feed of bxb100's issueblog-test]]></description>
@@ -16,7 +16,10 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 05 Dec 2021 18:11:18 GMT</lastBuildDate>
+        <itunes:image href="https://raw.githubusercontent.com/bxb100/issueblog-test/master/blog.png"/>
+        
+        
+        <lastBuildDate>Sun, 05 Dec 2021 18:26:39 GMT</lastBuildDate>
         
         
         <item>
