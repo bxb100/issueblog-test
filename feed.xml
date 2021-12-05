@@ -20,8 +20,23 @@
         <itunes:image href="https://raw.githubusercontent.com/bxb100/issueblog-test/master/blog.png"/>
         
         
-        <lastBuildDate>Sun, 05 Dec 2021 20:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 20:09:45 GMT</lastBuildDate>
         
+        
+        <item>
+            <title><![CDATA[测试文章 2]]></title>
+            <description><![CDATA[测试文章 2]]></description>
+            <pubDate>Sun, 05 Dec 2021 20:09:30 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/22</guid>
+            <link>https://github.com/bxb100/issueblog-test/issues/22</link>
+            
+            
+            
+            <author><![CDATA[bxb100]]></author>
+            
+                
+            
+        </item>
         
         <item>
             <title><![CDATA[测试一个文章]]></title>
