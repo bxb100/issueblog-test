@@ -16,7 +16,7 @@
         <itunes:explicit>no</itunes:explicit>
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 05 Dec 2021 17:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 18:11:18 GMT</lastBuildDate>
         
         
         <item>
@@ -373,7 +373,7 @@
             <pubDate>Sun, 05 Dec 2021 14:41:32 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/releases/tag/ep34</guid>
             <link>https://github.com/bxb100/issueblog-test/releases/tag/ep34</link>
-            <itunes:image href="https://cdn.jsdelivr.net/gh/bxb100/bxb100@master/png2.png"/>
+            <itunes:image href="https://user-images.githubusercontent.com/20685961/144750682-8b5d34c6-f7e1-411d-9d8e-fd30d949cb1b.png"/>
             <enclosure url="https://github.com/bxb100/issueblog-test/releases/download/ep34/8361664978_836589.mp3" length="39938400" type="audio/mpeg" />
             
             <author><![CDATA[bxb100]]></author>
