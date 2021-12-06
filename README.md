@@ -6,8 +6,8 @@ My personal blog using issues and GitHub Actions
 ## Links
 | Name | Link | Desc |
 | ---- | ---- | ---- |
-| 兔子鮮笙 | https://tuzi.moe | 20 岁的天才少年 |
-| FRIEND | https://tuzi.moe | 20 岁的天才少年 |
+| 兔子鮮笙 | https | 20 岁的天才少年 |
+| undefined | undefined | undefined |
 
 ## Top
 - [置顶测试 2](https://github.com/bxb100/issueblog-test/issues/3)---2021-12-04
