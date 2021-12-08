@@ -7,7 +7,6 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc |
 | ---- | ---- | ---- |
 | FrinendA | https://example.com | test:desc and with space |
-| 兔子鮮笙 | https://tuzi.moe | desc\:测试 |
 
 ## Top
 - [置顶测试 2](https://github.com/bxb100/issueblog-test/issues/3)---2021-12-04
