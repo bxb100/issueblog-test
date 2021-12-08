@@ -6,7 +6,7 @@ My personal blog using issues and GitHub Actions
 ## Links
 | Name | Link | Desc |
 | ---- | ---- | ---- |
-| 兔子鮮笙 | https://tuzi.moe | 20 岁的天才少年 |
+| FrinendA | https://example.com | test:desc and with space |
 | 兔子鮮笙 | https://tuzi.moe | desc\:测试 |
 
 ## Top
