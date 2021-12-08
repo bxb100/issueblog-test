@@ -10,11 +10,11 @@
         <generator>IssueBlogAction</generator>
         <webMaster>bxb100@outlook.com (@bxb100)</webMaster>
             <itunes:author>bxb100</itunes:author>
-
                 <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="https://cdn.jsdelivr.net/gh/bxb100/issueblog-test/blog.png" />
+
             <language>zh-cn</language>
-            <itunes:image href="https://cdn.jsdelivr.net/gh/bxb100/issueblog-test/blog.png" />
-        <lastBuildDate>Wed, 08 Dec 2021 16:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 16:55:20 GMT</lastBuildDate>
 
             <item>
                 <title><![CDATA[测试文章 2]]></title>
@@ -281,8 +281,8 @@
                     <pubDate>Sun, 05 Dec 2021 14:41:32 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/releases/tag/ep34</guid>
                 <link>https://github.com/bxb100/issueblog-test/releases/tag/ep34</link>
-                    <itunes:image href="https://user-images.githubusercontent.com/20685961/144750682-8b5d34c6-f7e1-411d-9d8e-fd30d949cb1b.png" />
                         <enclosure url="https://github.com/bxb100/issueblog-test/releases/download/ep34/8361664978_836589.mp3" length="39938400" type="audio/mpeg" />
+                        <itunes:image href="https://user-images.githubusercontent.com/20685961/144750682-8b5d34c6-f7e1-411d-9d8e-fd30d949cb1b.png" />
                     <author><![CDATA[bxb100]]></author>
                     <category>Podcast</category>
             </item>
