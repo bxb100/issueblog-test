@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           submodules: 'recursive'
-      - run: git submodule foreach "git checkout beta"
+      - run: git submodule foreach "git checkout -b beta origin/beta"
       - name: Generate README
         uses: ./.github/actions/issueblog
         with:
