@@ -12,17 +12,19 @@
             <itunes:author>bxb100</itunes:author>
                 <itunes:explicit>no</itunes:explicit>
                 <itunes:image href="https://cdn.jsdelivr.net/gh/bxb100/issueblog-test/blog.png" />
-
             <language>zh-cn</language>
-        <lastBuildDate>Wed, 08 Dec 2021 16:55:20 GMT</lastBuildDate>
-
+            <image>
+                <url>https://cdn.jsdelivr.net/gh/bxb100/issueblog-test/blog.png</url>
+                    <title><![CDATA[bxb100's Blog]]></title>
+                <link>https://github.com/bxb100/issueblog-test</link>
+            </image>
+        <lastBuildDate>Thu, 09 Dec 2021 16:33:44 GMT</lastBuildDate>
             <item>
                 <title><![CDATA[测试文章 2]]></title>
                     <description><![CDATA[测试文章 2]]></description>
                     <pubDate>Sun, 05 Dec 2021 20:09:30 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/22</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/22</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -55,7 +57,6 @@
                     <pubDate>Sun, 05 Dec 2021 20:04:10 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/21</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/21</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>测试</category>
             </item>
@@ -66,7 +67,6 @@
                     <pubDate>Sun, 05 Dec 2021 12:33:27 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/20</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/20</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -79,7 +79,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:49:43 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/19</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/19</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>Todo</category>
             </item>
@@ -94,7 +93,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:47:31 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/18</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/18</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>Todo</category>
             </item>
@@ -104,7 +102,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:11:30 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/17</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/17</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -113,7 +110,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:11:23 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/16</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/16</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -122,7 +118,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:09:22 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/15</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/15</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -131,7 +126,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:09:13 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/14</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/14</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -140,7 +134,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:06:41 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/13</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/13</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -149,7 +142,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:06:35 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/12</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/12</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -158,7 +150,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:06:29 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/11</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/11</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -167,7 +158,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:01:19 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/10</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/10</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>2021</category>
             </item>
@@ -177,7 +167,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:01:05 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/9</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/9</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>2021</category>
             </item>
@@ -187,7 +176,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:00:54 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/8</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/8</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>2021</category>
             </item>
@@ -197,7 +185,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:00:42 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/7</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/7</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>2021</category>
             </item>
@@ -207,7 +194,6 @@
                     <pubDate>Sat, 04 Dec 2021 17:00:31 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/6</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/6</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>2021</category>
             </item>
@@ -217,7 +203,6 @@
                     <pubDate>Sun, 05 Dec 2021 09:45:03 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/5</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/5</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>2021</category>
                         <category>two</category>
@@ -229,7 +214,6 @@
                     <pubDate>Sat, 04 Dec 2021 16:05:44 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/4</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/4</link>
-
                     <author><![CDATA[bxb100]]></author>
             </item>
             <item>
@@ -239,7 +223,6 @@
                     <pubDate>Sat, 04 Dec 2021 15:19:37 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/3</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/3</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>Top</category>
             </item>
@@ -250,7 +233,6 @@
                     <pubDate>Sat, 04 Dec 2021 15:19:12 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/2</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/2</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>Top</category>
             </item>
@@ -260,7 +242,6 @@
                     <pubDate>Wed, 08 Dec 2021 08:52:45 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/1</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/1</link>
-
                     <author><![CDATA[bxb100]]></author>
                         <category>Friends</category>
             </item>
