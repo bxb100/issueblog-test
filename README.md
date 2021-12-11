@@ -35,6 +35,10 @@ The test repo for using [action](https://github.com/bxb100/issueblog) [RSS Feed]
 </details>
 
 
+## links
+- [友链测试](https://github.com/bxb100/issueblog-test/issues/1)---2021-12-04
+
+
 ## two
 - [测试隐藏 label 1](https://github.com/bxb100/issueblog-test/issues/5)---2021-12-04
 

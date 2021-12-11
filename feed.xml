@@ -18,7 +18,7 @@
                     <title><![CDATA[bxb100's Blog]]></title>
                 <link>https://github.com/bxb100/issueblog-test</link>
             </image>
-        <lastBuildDate>Sat, 11 Dec 2021 07:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 08:15:20 GMT</lastBuildDate>
             <item>
                 <title><![CDATA[测试文章 2]]></title>
                     <description><![CDATA[测试文章 2]]></description>
@@ -239,11 +239,12 @@
             <item>
                 <title><![CDATA[友链测试]]></title>
                     <description><![CDATA[友链测试]]></description>
-                    <pubDate>Wed, 08 Dec 2021 08:52:45 GMT</pubDate>
+                    <pubDate>Sat, 11 Dec 2021 08:04:56 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/1</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/1</link>
                     <author><![CDATA[bxb100]]></author>
                         <category>Friends</category>
+                        <category>links</category>
             </item>
             <item>
                 <title><![CDATA[Ep 34. 和 lepture 聊聊他的产品，以及做个人开发的体验]]></title>
