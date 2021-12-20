@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
       - run: git submodule init
       - run: git submodule update --remote
-      - run: git submodule foreach "git checkout v1-beta"
+      - run: git submodule foreach "git checkout v1"
       - name: Generate README
         uses: ./.github/actions/issueblog
         with:
