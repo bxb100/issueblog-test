@@ -18,7 +18,7 @@
                     <title><![CDATA[bxb100's Blog]]></title>
                 <link>https://github.com/bxb100/issueblog-test</link>
             </image>
-        <lastBuildDate>Mon, 20 Dec 2021 08:58:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:05:16 GMT</lastBuildDate>
             <item>
                 <title><![CDATA[测试文章 2]]></title>
                     <description><![CDATA[测试文章 2]]></description>
@@ -220,11 +220,12 @@
                 <title><![CDATA[置顶测试 2]]></title>
                     <description><![CDATA[<p>测试测试测试测试从 s</p>
 ]]></description>
-                    <pubDate>Sat, 04 Dec 2021 15:19:37 GMT</pubDate>
+                    <pubDate>Mon, 27 Dec 2021 17:05:13 GMT</pubDate>
                         <guid isPermaLink="false">https://github.com/bxb100/issueblog-test/issues/3</guid>
                 <link>https://github.com/bxb100/issueblog-test/issues/3</link>
                     <author><![CDATA[bxb100]]></author>
                         <category>Top</category>
+                        <category>2021</category>
             </item>
             <item>
                 <title><![CDATA[置顶测试 1]]></title>

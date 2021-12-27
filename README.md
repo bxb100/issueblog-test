@@ -32,7 +32,12 @@ The test repo for using [action](https://github.com/bxb100/issueblog) [RSS Feed]
 <details><summary>MORE</summary>
 
 - [测试隐藏 label 1](https://github.com/bxb100/issueblog-test/issues/5)---2021-12-04
+- [置顶测试 2](https://github.com/bxb100/issueblog-test/issues/3)---2021-12-04
 </details>
+
+
+## Friends
+- [友链测试](https://github.com/bxb100/issueblog-test/issues/1)---2021-12-04
 
 
 ## two
