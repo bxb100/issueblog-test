@@ -12,7 +12,7 @@ The test repo for using [action](https://github.com/bxb100/issueblog) [RSS Feed]
 - [置顶测试 1](https://github.com/bxb100/issueblog-test/issues/2)---2021-12-04
 
 ## Recent
-- [测试文章 2](https://github.com/bxb100/issueblog-test/issues/22)---2021-12-05
+- [测试文章 2-改名](https://github.com/bxb100/issueblog-test/issues/22)---2021-12-05
 - [测试一个文章](https://github.com/bxb100/issueblog-test/issues/21)---2021-12-05
 - [备份测试 1-改名测试 1](https://github.com/bxb100/issueblog-test/issues/20)---2021-12-05
 - [todo 测试 2](https://github.com/bxb100/issueblog-test/issues/19)---2021-12-04
@@ -34,10 +34,6 @@ The test repo for using [action](https://github.com/bxb100/issueblog) [RSS Feed]
 - [测试隐藏 label 1](https://github.com/bxb100/issueblog-test/issues/5)---2021-12-04
 - [置顶测试 2](https://github.com/bxb100/issueblog-test/issues/3)---2021-12-04
 </details>
-
-
-## Friends
-- [友链测试](https://github.com/bxb100/issueblog-test/issues/1)---2021-12-04
 
 
 ## two
