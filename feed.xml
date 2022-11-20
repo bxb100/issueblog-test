@@ -18,7 +18,7 @@
                     <title><![CDATA[bxb100's Blog]]></title>
                 <link>https://github.com/bxb100/issueblog-test</link>
             </image>
-        <lastBuildDate>Thu, 20 Jan 2022 12:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 08:31:20 GMT</lastBuildDate>
             <item>
                 <title><![CDATA[测试文章 2-改名]]></title>
                     <description><![CDATA[测试文章 2-改名]]></description>
@@ -40,8 +40,7 @@
             </item>
             <item>
                 <title><![CDATA[测试一个文章]]></title>
-                    <description><![CDATA[<h2>
-<a id="user-content-啦啦啦啦啦" class="anchor" href="#%E5%95%A6%E5%95%A6%E5%95%A6%E5%95%A6%E5%95%A6" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>啦啦啦啦啦</h2>
+                    <description><![CDATA[<h2><a id="user-content-啦啦啦啦啦" class="anchor" aria-hidden="true" href="#啦啦啦啦啦"><span aria-hidden="true" class="octicon octicon-link"></span></a>啦啦啦啦啦</h2>
 <p>打的就爱上了</p>
 <ul>
 <li>1</li>
